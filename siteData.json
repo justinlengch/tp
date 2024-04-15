@@ -7,11 +7,10 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "justin-leng-chern-harn": "Justin Leng Chern Harn",
+        "lee-poe-aik": "Lee Poe Aik",
+        "chia-rena": "Chia Rena",
+        "safwan-hussein": "Safwan Hussein"
       },
       "headingKeywords": {}
     },
@@ -40,7 +39,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "tutortrack-developer-guide": "TutorTrack Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -58,6 +57,10 @@
         "product-scope": "Product scope",
         "user-stories": "User stories",
         "use-cases": "Use cases",
+        "use-case-uc01-add-a-student": "Use case: UC01 Add a student",
+        "use-case-uc02-find-a-student": "Use case: UC02 Find a student",
+        "use-case-uc03-edit-student-information": "Use case: UC03 Edit student information",
+        "use-case-uc04-schedule-lesson-for-a-student": "Use case: UC04 Schedule lesson for a student",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
@@ -105,22 +108,27 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "tutortrack-user-guide": "TutorTrack User Guide",
+        "how-to-use-this-guide": "How to use this guide",
+        "what-is-in-this-user-guide": "What is in this User Guide:",
         "quick-start": "Quick start",
         "features": "Features",
-        "viewing-help-help": "Viewing help : help",
-        "adding-a-person-add": "Adding a person: add",
-        "listing-all-persons-list": "Listing all persons : list",
-        "editing-a-person-edit": "Editing a person : edit",
-        "locating-persons-by-name-find": "Locating persons by name: find",
-        "deleting-a-person-delete": "Deleting a person : delete",
+        "1-viewing-help-help": "1. Viewing help : help",
+        "2-adding-a-student-add": "2. Adding a Student: add",
+        "3-listing-all-students-list": "3. Listing all Students : list",
+        "4-editing-a-student-edit": "4. Editing a Student : edit",
+        "5-locating-students-by-name-find": "5. Locating students by name: find",
+        "6-deleting-a-student-delete": "6. Deleting a Student : delete",
+        "7-add-a-lesson-schedule-schedule": "7. Add a lesson schedule : schedule",
+        "8-mark-a-lesson-schedule-mark": "8. Mark a lesson schedule : mark",
+        "9-add-remark-to-a-student-remark": "9. Add remark to a student : remark",
+        "10-add-a-fee-status-for-a-student-feestatus": "10. Add a fee status for a student: feestatus",
+        "11-viewing-a-particular-student-s-lesson-left-click": "11. Viewing a particular student's lesson : left-click",
         "clearing-all-entries-clear": "Clearing all entries : clear",
-        "exiting-the-program-exit": "Exiting the program : exit",
-        "saving-the-data": "Saving the data",
-        "editing-the-data-file": "Editing the data file",
-        "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
+        "12-exiting-the-program-exit": "12. Exiting the program : exit",
+        "13-saving-the-data": "13. Saving the data",
+        "14-editing-the-data-file": "14. Editing the data file",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
@@ -131,7 +139,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "tutortrack-level-1": "TutorTrack Level-1"
       },
       "headingKeywords": {}
     },
